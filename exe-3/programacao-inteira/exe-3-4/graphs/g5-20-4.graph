@@ -1,0 +1,14 @@
+c FILE: g5-20-4.graph
+c
+c DESCRIPTION: This is a random graph with 5 vertices.
+c   Each of pair of vertices are made adjacent with probability p = 0.2.
+c   Edge weights are an integer generated uniformly at random in the interval [1, 20].
+c   The random seed used for its generation was 4.
+c
+c 04/05/2025
+c
+p edge 5 4
+e 0 2 3
+e 0 3 13
+e 1 2 10
+e 3 4 9

@@ -1,0 +1,8 @@
+# Tintas
+lucro: 2, 8
+uso_m1: 2, 5
+uso_m2: 2, 3
+limite: 3, 7
+
+# Matéria prima
+estoque: 40, 28
